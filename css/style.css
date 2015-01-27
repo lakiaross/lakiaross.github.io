@@ -9,11 +9,11 @@ body {
 }
 
 p {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 p.small {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 a,
@@ -34,6 +34,9 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
+}
+h3, .h3{
+    font-size: 22px;
 }
 
 hr.star-light,
@@ -185,7 +188,7 @@ header .intro-text .skills {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-    background-color: #33cc99;
+    background-color: #11b293;
     color: #ffffff;
 }
 
