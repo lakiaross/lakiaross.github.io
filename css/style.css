@@ -79,10 +79,13 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.navbar-default{
+    background-color: #18bc9c;
+}
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #2c3e50;
 }
 
 header .container {
@@ -132,7 +135,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 1.25em;
+        font-size: 1.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -143,7 +146,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
-        font-size: 0.85em;
+        font-size: 1.25em;
     }
 }
 
