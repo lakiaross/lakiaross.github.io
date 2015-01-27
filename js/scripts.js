@@ -39,6 +39,6 @@ $('.navbar-collapse ul li a').click(function() {
 //Tooltip Script
 $(document).ready(function(){
     $('[data-toggle="tooltip"]').tooltip({
-        placement : 'right'
+        placement : 'left'
     });
 });
