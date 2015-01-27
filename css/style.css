@@ -1,10 +1,8 @@
-/*css document*/
+/*
+css document
+derived from: Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
+*/
 
-/*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
- */
 
 body {
     overflow-x: hidden;
@@ -101,7 +99,7 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
+    font-size: 1em;
     font-weight: 700;
 }
 
