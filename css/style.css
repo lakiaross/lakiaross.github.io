@@ -79,6 +79,9 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.tool-tip { text-transform: normal;
+}
+
 .navbar-default{
     background-color: #18bc9c;
 }
@@ -135,7 +138,7 @@ header .intro-text .skills {
     }
 
     .navbar-fixed-top .navbar-brand {
-        font-size: 1.5em;
+        font-size: 1.5em; text-transform: normal;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
